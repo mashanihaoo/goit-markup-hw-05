@@ -599,7 +599,7 @@ color: #f4f4fd;
 }
 
 .footer-modal-input{
-    width: 164px;
+    width: 264px;
     height: 40px;
     border: 1px solid #FFFFFF;
     background-color: transparent;
@@ -608,7 +608,8 @@ color: #f4f4fd;
     letter-spacing: 0.04em;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    color: #FFFFFF
+    color: #FFFFFF;
+    padding-left: 16px;
 }
 
 ::placeholder{
@@ -623,7 +624,7 @@ color: #f4f4fd;
     align-items: center;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
@@ -634,6 +635,10 @@ color: #f4f4fd;
 
 }
 
+.footer-modal-icon{
+    margin-left: 16px;
+    fill: #ffffff;
+}
 
 
 /*modal */
