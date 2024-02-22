@@ -805,6 +805,10 @@ color: #f4f4fd;
     margin-left: 24px;
 }
 
+.modal-checkbox:focus{
+    border-color: #4D5AE5
+}
+
 .modal-checkbox-input:checked + .modal-checkbox-label .checkbox-span{
     background-color: #404bbf;
         border: none;
