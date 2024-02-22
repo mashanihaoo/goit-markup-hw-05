@@ -801,6 +801,13 @@ color: #f4f4fd;
     margin-bottom: 24px;
 }
 
+.modal-checkbox-label{
+        color: #8E8F99;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.17;
+        letter-spacing: 0.04em;
+}
 .checkbox-span{
     width: 16px;
     height: 16px;
@@ -811,6 +818,13 @@ color: #f4f4fd;
     align-items: center;
     justify-content: center;
     fill: transparent;
+}
 
+.modal-checkbox-icon{
+
+}
+
+.modal-checkbox-link{
+    
 }
 
