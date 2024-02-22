@@ -655,7 +655,7 @@ color: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 .backdrop {
@@ -791,6 +791,8 @@ color: #f4f4fd;
     background-color: transparent;
     min-height: 120px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 8px 16px;
+    outline: transparent;
 }
 ::placeholder{
     color: rgba(46, 47, 66, 0.40);
